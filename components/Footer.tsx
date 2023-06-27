@@ -24,7 +24,7 @@ const Footer = () => (
                 <Image src="/logo-purple.svg" width={116} height={38} alt="logo" />
 
                 <p className="text-start text-sm font-normal mt-5 max-w-xs">
-                    ProjectXchange is the world&apos;s leading community for creatives to share, grow, and get hired.
+                    Flexibble is the world&apos;s leading community for creatives to share, grow, and get hired.
                 </p>
             </div>
             <div className="flex flex-wrap gap-12">
@@ -47,7 +47,7 @@ const Footer = () => (
         </div>
 
         <div className="flexBetween footer_copyright">
-            <p>@ 2023 ProjectXchange. All rights reserved</p>
+            <p>@ 2023 Flexibble. All rights reserved</p>
             <p className="text-gray">
                 <span className="text-black font-semibold">10,214</span> projects submitted
             </p>
